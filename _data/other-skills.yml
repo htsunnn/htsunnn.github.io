@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Microsoft Office
+  percentage: 90
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Sketch
+  percentage: 85
   color: success
+
+- name: Figma
+  percentage: 80
+  color: danger

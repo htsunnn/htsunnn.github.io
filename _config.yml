@@ -1,34 +1,33 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Haotian Sun
 description         : >-                               # >- means to ignore newlines until "url:"
-                      "I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production."
+                      Product Manager and Programmer.
+                      Basketball :basketball:, Fitness :muscle:, and Music Technology :musical_keyboard:.
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
-baseurl             : "/portfolYOU"                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
-repository          : YoussefRaafatNasry/portfolYOU    # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
+baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
+repository          : htsunnn/htsunnn.github.io   # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
 #remote_theme       : YoussefRaafatNasry/portfolYOU    # uncomment this if you are using it as a remote theme
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://bit.ly/2KCvgVJ
-  behance           : your_username
+  name              : Haotian Sun
+  image             : https://i.ibb.co/CVRQNSn/Wechat-IMG59.jpg
+# behance           : haotiansun96@gmail.com
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : haotiansun96@gmail.com
+  facebook          : profile.php?id=100012949785806
+  github            : haotiansun
 # gitlab            : your_username
-# instagram         : your_username
-  linkedin          : your_username
-  medium            : your_username
+# instagram         : aaaddii__10
+  linkedin          : haotiansunn
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+# twitter           : AdityaAnil19
 # vimeo             : your_username
 # youtube           : your_channel_name
 
@@ -57,13 +56,11 @@ defaults:
     values:
       layout: "page"
 
-plugins:
-  - jemoji
 
 ### Exclude from processing ###
 exclude:
-  - README.md
-  - CONTRIBUTING.md
-  - LICENSE
-  - Gemfile
-  - Gemfile.lock
+- README.md
+- CONTRIBUTING.md
+- LICENSE
+- Gemfile
+- Gemfile.lock

@@ -1,17 +1,29 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Graduate Student @ Stanford University
+  from: 2018.09
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: I'm pursuing a master degree in music technology (computer science and music) at Center for Computer Research in Music and Acoustics at Stanford.
+
+- title: Associate Product Manager Intern @ ByteDance
+  from: 2019.06
+  to: 2019.09
+  description: Joined ByteDance based in Beijing as an associate product manager and worked on an Enterprise SaaS software.
+
+- title: Growth Marketing Intern @ Renaissance.app
+  from: 2019.03
+  to: 2019.06
+  description: Joined Renaissance.app (a startup based in San Francisco funded by 500 Startups) and worked on product growth. 
+
+- title: Product Assistant Intern @ Volkswagen-Mobvoi
+  from: 2018.03
+  to: 2018.06
+  description: Joined Volkswagen-Mobvoi (an AI unicorn company in China funded by Google Venture) as a product assistant intern and worked on smart voice device in car.
+
+- title: Exchange Student @ Nanyang Technological University
+  from: 2016.8
+  to: 2016.12
+  description: Studied at Nanyang Technological University as an exchange student at School of Electrical and Electronic Engineering.
+
+- title: Undergraduate Student @ Tianjin University
+  from: 2014.09
+  to: 2018.06
+  description: Earned a bachelor's degree in Electrical Engineering from Tianjin University.
