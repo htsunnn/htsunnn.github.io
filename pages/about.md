@@ -9,7 +9,7 @@ weight: 3
 
 Hi I'm **{{ site.author.name }}**,<br>
 
-A programmer and product manager studying at Stanford University. I'm pursuing a master degree in computer music which is the intersection of computer science, art and design.
+A Software Engineer studying at Stanford University. I'm pursuing a master degree in computer music which is the intersection of computer science, electrical engineering and music technology.
 
 I would like to apply my technical skills solve the problems our daily lives, creating the value and exploring the unknown. My interests include technology, sports and music.
 <div class="rMow">
