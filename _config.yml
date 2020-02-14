@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Haotian Sun
 description         : >-                               # >- means to ignore newlines until "url:"
-                      Product Manager and Programmer.
+                      Software Engineer and Product Manager.
                       Basketball :basketball:, Fitness :muscle:, and Music Technology :musical_keyboard:.
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
